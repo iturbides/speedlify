@@ -1,6 +1,6 @@
 module.exports = {
-	name: "SSG", // optional, falls back to object key
-	description: "Static Site Generator web sites",
+	name: "11ty", // optional, falls back to object key
+	description: "11ty Sites",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
 	skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
@@ -13,17 +13,8 @@ module.exports = {
 		freshChrome: "run"
 	},
 	urls: [
-		"https://www.11ty.dev/",
-		"https://www.gatsbyjs.com/",
-		"https://gohugo.io/",
-		"https://nextjs.org/",
-		"https://nuxtjs.org/",
-		"https://gridsome.org/",
-		"https://vuepress.vuejs.org/",
-		"https://docusaurus.io/",
-		"https://docsify.js.org/",
-		"https://jekyllrb.com/",
-		"https://hexo.io/",
-		"https://sapper.svelte.dev/",
+		"https://pardeletras.com/",
+		"https://tottattoo.com/",
+		"https://artbarcelonamag.com/",
 	]
 };
