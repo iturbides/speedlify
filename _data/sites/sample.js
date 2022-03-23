@@ -5,6 +5,6 @@ module.exports = {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
 	urls: [
-		"https://www.speedlify.dev/"
+		"https://pardeletras.com/"
 	]
 };
