@@ -16,6 +16,7 @@ module.exports = {
 		"https://pardeletras.com/",
 		"https://tottattoo.com/",
 		"https://artbarcelonamag.com/",
+		"https://iturbides.dev/",
 	]
 };
 
